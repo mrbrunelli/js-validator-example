@@ -1,4 +1,4 @@
-##Validador Simples e Elegante com JavaScript
+## Validador Simples e Elegante com JavaScript
 #### :link: [Link do meu post no Linkedin](https://www.linkedin.com/posts/mrbrunelli_javascript-every-tipoftheday-activity-6789588317840125952-2VPM)
 
 ### Como parar de fazer isso?
