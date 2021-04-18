@@ -15,5 +15,5 @@ const isValidUser = (expectedData, receivedData) => {
 };
 
 console.log(
-  isValidUser(expectedData, isValidUser),
+  isValidUser(expectedData, receivedData),
 );
